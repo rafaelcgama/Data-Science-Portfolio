@@ -8,4 +8,4 @@ This repo lists some of the projects that I have completed so far in Jupyter Not
 [Wi-Fi Positioning](https://github.com/rafaelcgama/WiFi-Positioning): The goal of this project is to use machine learning tools to predict the location of a person in a university campus based on the WiFi signal strength capturated by his phone.
 
 ## _Tableau_
-[SuperStore Demonstration](https://public.tableau.com/profile/rafael.gama6619#!/vizhome/SuperstoreProject_2/Answers): A simple dashboard that applies some basic Tableau functionalities.
+[SuperStore Demonstration](https://public.tableau.com/profile/rafael.gama6619#!/vizhome/SuperstoreProject_2/Answers): A simple dashboard that applies basic Tableau functionalities.
