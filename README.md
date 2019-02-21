@@ -7,7 +7,7 @@ This repo lists some of the projects that I have completed so far in Jupyter Not
 ## *R*
 [Wi-Fi Positioning](https://github.com/rafaelcgama/WiFi-Positioning): The goal of this project is to use machine learning tools to predict the location of a person in a university campus based on the WiFi signal strength capturated by his phone.
 
-## _Python/Jupyter Notebook
+## _Python/Jupyter Notebook_
 [What's Cooking?](https://github.com/rafaelcgama/Whats-Cooking): Machine learning model to predict the cuisine of a given recipe based on its ingredients.
 
 ## _Tableau_
