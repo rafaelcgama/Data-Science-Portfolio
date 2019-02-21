@@ -2,7 +2,7 @@
 This repo lists some of the projects that I have completed so far in Jupyter Notebook, R and Tableau.
 
 ## _Python_
-[IMDB-Crawler](https://github.com/rafaelcgama/IMDB-Crawler): The goal of this project is to scrape IMDB's website and developt a dataset containing at least 5000 movie titles, create a web service that returns this dataset and run some statistics. .
+[IMDB-Crawler](https://github.com/rafaelcgama/IMDB-Crawler): The goal of this project is to scrape IMDB's website and developt a dataset containing at least 5000 movie titles, create a web service that returns this dataset and run some basic statistics.
 
 ## *R*
 [Wi-Fi Positioning](https://github.com/rafaelcgama/WiFi-Positioning): The goal of this project is to use machine learning tools to predict the location of a person in a university campus based on the WiFi signal strength capturated by his phone.
