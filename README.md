@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Portfolio
 This repo lists some of the projects that I have completed so far in Python, Jupyter Notebook, R and Tableau.
 
 ## _Python_
