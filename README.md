@@ -8,7 +8,7 @@ This repo lists some of the projects that I have completed so far in Python, Jup
 The goal of this project is to try restore my disabled Uber account by crawling Uber's employee names from LinkedIn and emailing them letter pleading for their help since I was unable to get it done via Customer Service.
 
 * [Django API REST CRUD](https://github.com/rafaelcgama/crud-api-rest):
-Creates a REST API using the Python/Django Rest Framework and implement CRUD and a few extra operations.
+Create a REST API using the Python/Django Rest Framework and implement CRUD and a few extra operations.
 
 ## _Jupyter Notebook/Python_
 * [What's Cooking?](https://github.com/rafaelcgama/Whats-Cooking): Machine learning model to predict the cuisine of a given recipe based on its ingredients.
