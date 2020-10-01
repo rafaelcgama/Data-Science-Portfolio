@@ -13,7 +13,7 @@ Develop a REST API using the Python/Django Rest Framework that manages accounts,
 * [What's Cooking?](http://bit.ly/WhatsCookingML): Machine learning model to predict the cuisine of a given recipe based on its ingredients.
 
 ## _R_
-* [Wi-Fi Positioning](https://bit.ly/36kLVXV): Machine learning model to predict the location of a person in a university campus based on the WiFi signal strength capturated by his phone.
+* [Wi-Fi Positioning](http://bit.ly/WifiPositioning): Machine learning model to predict the location of a person in a university campus based on the WiFi signal strength capturated by his phone.
 
 ## _Tableau_
 * [SuperStore Demonstration](http://bit.ly/TableauSimpleDemo): A simple dashboard that applies basic Tableau functionalities.
